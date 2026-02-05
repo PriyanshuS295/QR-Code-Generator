@@ -67,7 +67,3 @@ your_filename.png
 Input: https://www.google.com
 
 Output: google_qr.png
-
-🎯 Use Cases
-
-Sharing links easily
